@@ -11,6 +11,7 @@
 		E40CA35327CFE5440069A559 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E40CA35227CFE5440069A559 /* ContentView.swift */; };
 		E40CA35527CFE5450069A559 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E40CA35427CFE5450069A559 /* Assets.xcassets */; };
 		E40CA35827CFE5450069A559 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E40CA35727CFE5450069A559 /* Preview Assets.xcassets */; };
+		E471E60627D3D3A100C985CE /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E471E60527D3D3A100C985CE /* HomeView.swift */; };
 		E476E1B727D22853004CFF9A /* TransactionData.swift in Sources */ = {isa = PBXBuildFile; fileRef = E476E1B627D22853004CFF9A /* TransactionData.swift */; };
 		E476E1BB27D22D8F004CFF9A /* ListItemCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = E476E1BA27D22D8F004CFF9A /* ListItemCell.swift */; };
 /* End PBXBuildFile section */
@@ -21,6 +22,7 @@
 		E40CA35227CFE5440069A559 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E40CA35427CFE5450069A559 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E40CA35727CFE5450069A559 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E471E60527D3D3A100C985CE /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		E476E1B627D22853004CFF9A /* TransactionData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionData.swift; sourceTree = "<group>"; };
 		E476E1BA27D22D8F004CFF9A /* ListItemCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListItemCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -57,6 +59,7 @@
 			children = (
 				E40CA35027CFE5440069A559 /* Finance_TrackerApp.swift */,
 				E40CA35227CFE5440069A559 /* ContentView.swift */,
+				E471E60527D3D3A100C985CE /* HomeView.swift */,
 				E476E1BA27D22D8F004CFF9A /* ListItemCell.swift */,
 				E476E1B627D22853004CFF9A /* TransactionData.swift */,
 				E40CA35427CFE5450069A559 /* Assets.xcassets */,
@@ -146,6 +149,7 @@
 				E476E1BB27D22D8F004CFF9A /* ListItemCell.swift in Sources */,
 				E476E1B727D22853004CFF9A /* TransactionData.swift in Sources */,
 				E40CA35327CFE5440069A559 /* ContentView.swift in Sources */,
+				E471E60627D3D3A100C985CE /* HomeView.swift in Sources */,
 				E40CA35127CFE5440069A559 /* Finance_TrackerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
